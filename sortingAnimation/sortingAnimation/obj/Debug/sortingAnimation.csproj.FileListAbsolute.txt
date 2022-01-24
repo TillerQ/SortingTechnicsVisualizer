@@ -1,0 +1,10 @@
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\bin\Debug\sortingAnimation.exe.config
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\bin\Debug\sortingAnimation.exe
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\bin\Debug\sortingAnimation.pdb
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\obj\Debug\sortingAnimation.csprojAssemblyReference.cache
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\obj\Debug\sortingAnimation.Form1.resources
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\obj\Debug\sortingAnimation.Properties.Resources.resources
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\obj\Debug\sortingAnimation.csproj.GenerateResource.cache
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\obj\Debug\sortingAnimation.csproj.CoreCompileInputs.cache
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\obj\Debug\sortingAnimation.exe
+C:\Users\Quin\Documents\Fall 2020\CSCD 371 .Net\Final Project\sortingAnimation\sortingAnimation\obj\Debug\sortingAnimation.pdb
